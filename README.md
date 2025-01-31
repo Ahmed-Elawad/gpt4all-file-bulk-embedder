@@ -5,4 +5,6 @@ A small utility to quickly embedd directories for local LLM.
 Targeting:
 - AnythingLLM
 - LMStudio
-- GPT4ALL
+- GPT4ALLcd 
+
+<img src='./resources/screenshot_simple.png' />
