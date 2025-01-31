@@ -1,0 +1,1 @@
+# gpt4all-file-bulk-embedder
